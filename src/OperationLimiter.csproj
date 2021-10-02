@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>OperationLimiter is a simple time based operation limiter library.</Description>
+    <Company>turhany</Company>
+    <Authors>Türhan Yıldırım</Authors>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/turhany/OperationLimiter</PackageProjectUrl> 
+    <RepositoryUrl>https://github.com/turhany/OperationLimiter</RepositoryUrl>
+    <PackageIcon>operationlimiter.png</PackageIcon>
+    <PackageTags>Operation Limiter</PackageTags>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.0</Version>
+    <PackageVersion>1.0.0</PackageVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\img\operationlimiter.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
