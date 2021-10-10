@@ -4,7 +4,7 @@
 
 OperationLimiter is a simple time based operation limiter library.
 
-[![NuGet version](https://badge.fury.io/nu/OperationLimiter.svg)](https://badge.fury.io/nu/OperationLimiter)
+[![NuGet version](https://badge.fury.io/nu/OperationLimiter.svg)](https://badge.fury.io/nu/OperationLimiter)  ![Nuget](https://img.shields.io/nuget/dt/OperationLimiter)
 
 #### Features:
 - Limit operation by Second (N times in one second)
