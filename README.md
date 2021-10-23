@@ -1,6 +1,6 @@
 #   **OperationLimiter**
 
-![alt tag](https://raw.githubusercontent.com/turhany/OperationLimiter/main/img/operationlimiter.png)  
+![alt tag](/img/operationlimiter.png)  
 
 OperationLimiter is a simple time based operation limiter library.
 
