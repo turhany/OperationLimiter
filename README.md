@@ -1,5 +1,3 @@
-#   **OperationLimiter**
-
 ![alt tag](/img/operationlimiter.png)  
 
 OperationLimiter is a simple time based operation limiter library.
